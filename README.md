@@ -14,6 +14,7 @@ I believe technology is a tool to solve real-world problems, and I'm always exci
 ### 🔗 Important Links
 - [LinkedIn](https://www.linkedin.com/in/wahyu-ismaya-cipta-mahardhika) - Let's connect for professional discussions!
 - [Portfolio](https://onizin.github.io) - Check out my projects and work here.
+- [Medium](https://medium.com/@archivumaeternum00) - Check out my articles here.
 
 If you're interested in collaborating or have any questions, feel free to reach out! 😊
 
